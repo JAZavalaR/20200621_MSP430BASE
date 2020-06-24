@@ -1,0 +1,2 @@
+# 20200621_MSP430BASE
+Base project for MSP430 TI
