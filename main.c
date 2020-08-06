@@ -10,6 +10,7 @@ int main(void)
 	/*Main Program Test*/
 	/*Pending to add code*/
 	/*Pending to add folders*/
+	while(1);
 	
 	return 0;
 }
