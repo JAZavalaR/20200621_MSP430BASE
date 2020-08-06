@@ -7,6 +7,7 @@
 int main(void)
 {
 	WDTCTL = WDTPW | WDTHOLD;	// stop watchdog timer
+	/*Main Program Test*/
 	
 	return 0;
 }
